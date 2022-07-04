@@ -7,6 +7,8 @@ global.owner = [
   ['6281238772258', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
+global.lolkey = [Papah-Chan]
+global.zenzkey = [BagasPrdn]
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
