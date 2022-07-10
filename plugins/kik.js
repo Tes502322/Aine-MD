@@ -1,4 +1,4 @@
-/*let handler = async (m, { conn, args }) => {
+let handler = async (m, { conn, args }) => {
 let fs = require('fs')
  let ownerGroup = m.chat.split`-`[0] + '@s.whatsapp.net'
   aki = m.quoted ? [m.quoted.sender] : m.mentionedJid
@@ -25,4 +25,4 @@ handler.botAdmin = true
 handler.fail = null
 handler.limit = false
 
-module.exports = handler*/
+module.exports = handler
